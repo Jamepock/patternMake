@@ -26,4 +26,4 @@
 4. Скрипченко М.В.
 
 ## UML-diagram ##
-![UML](http://cs606530.vk.me/v606530962/5f20/6R2-_v1aMEk.jpg)
+![UML](http://cs617526.vk.me/v617526329/70f1/2Ibcx3Lg2K0.jpg)
