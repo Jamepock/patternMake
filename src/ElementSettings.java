@@ -1,20 +1,19 @@
 public class ElementSettings extends History {
 
-  public Integer BasicSetting1;
+  public Integer width;
 
-  public Integer BasicSetting2;
+  public Integer height;
 
-  public Integer BasicSetting3;
+  public Integer zIndex;
 
-  public Integer newAttr;
 
-  public void setElemSettingName1() {
+  public void setWidth() {
   }
 
-  public void setElemSettingName2() {
+  public void setHeight() {
   }
 
-  public void setElemSettingName3() {
+  public void setzIndex() {
   }
 
 }
