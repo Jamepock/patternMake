@@ -1,24 +1,21 @@
 public class Settings extends Main {
 
-  public void set_settingName1() {
+  public void setSettingName1() {
   }
 
-  public void set_settingName2() {
+  public void setSettingName2() {
   }
 
-  public void set_settingName3() {
+  public void setSettingName3() {
   }
 
-  public void set_settingName4() {
+  public void setSettingName4() {
   }
 
-  public void set_settingName1() {
+  public void setSettingName5() {
   }
 
-  public void set_settingName1() {
-  }
-
-  public void newOperation() {
+  public void setSettingName6() {
   }
 
 }
