@@ -1,4 +1,4 @@
-public class ElemName1 extends ElementSettings {
+public class Square extends ElementSettings {
 
   public Integer width;
 
@@ -6,10 +6,13 @@ public class ElemName1 extends ElementSettings {
   
   public Integer zIndex;
 
-  public void getElemSettingName1() {
+  public void getWidth() {
   }
 
-  public void getElemSettingName2() {
+  public void getHeight() {
+  }
+  
+  public void getzIndex() {
   }
 
 }
