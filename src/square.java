@@ -1,8 +1,10 @@
 public class ElemName1 extends ElementSettings {
 
-  public Integer BasicSetting1;
+  public Integer width;
 
-  public Integer BasicSetting2;
+  public Integer height;
+  
+  public Integer zIndex;
 
   public void getElemSettingName1() {
   }
