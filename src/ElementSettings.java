@@ -8,13 +8,13 @@ public class ElementSettings extends History {
 
   public Integer newAttr;
 
-  public void set_ElemSettingName1() {
+  public void setElemSettingName1() {
   }
 
-  public void set_ElemSettingName2() {
+  public void setElemSettingName2() {
   }
 
-  public void set_ElemSettingName3() {
+  public void setElemSettingName3() {
   }
 
 }
