@@ -1,21 +1,18 @@
 public class Settings extends Main {
 
-  public void setSettingName1() {
+  public void setWidth() {
   }
 
-  public void setSettingName2() {
+  public void setHeight() {
   }
 
-  public void setSettingName3() {
+  public void setzIndex() {
   }
 
-  public void setSettingName4() {
+  public void setColor() {
   }
 
-  public void setSettingName5() {
-  }
-
-  public void setSettingName6() {
+  public void setText() {
   }
 
 }
